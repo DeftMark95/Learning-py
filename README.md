@@ -2,4 +2,4 @@ This repo contains a projects folder where i will be pushing all my small and mi
 <br>
 Source of learning : Freecodingcamp,cs50 for python.
 <br>
-Author-Kushal Aradhya
+Author-Kushal Aradhya.
